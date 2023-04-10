@@ -1,5 +1,5 @@
-<h1>
-  Hi, there
+<h1 align="center">
+  Hi. Welcome to my github
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -9,7 +9,7 @@
 
 
 ### :woman_technologist: About Me :
-    As a full-stack developer with extensive experience, I have gained the ability to understand the unique needs of various clients and work with teams to deliver projects on time.
+    As a full-stack developer, I have gained the ability to understand the unique needs of clients and work to deliver projects on time.
   - :telescope: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
