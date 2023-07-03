@@ -65,11 +65,11 @@
 <div>
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/Bytemaster82">
-    <img width=450 height=170 align="center" alt="Bytemaster82" src="https://github-readme-stats.vercel.app/api?username=Bytemaster82&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/legend524">
+    <img width=450 height=170 align="center" alt="legend524" src="https://github-readme-stats.vercel.app/api?username=legend524&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/Bytemaster82">
-    <img align="center" alt="Bytemaster82" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytemaster82&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/legend524">
+    <img align="center" alt="legend524" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legend524&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
