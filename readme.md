@@ -12,7 +12,7 @@
     As a full-stack developer, I have gained the ability to understand the unique needs of clients and deliver projects on time.
   - :telescope: I’m working as a Full Stack Developer and contributing to frontend and backend for building web & blockchain applications.
 
-- :seedling: .
+- :seedling: Learning new programming languages and frameworks.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
