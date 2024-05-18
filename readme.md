@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi. Welcome to my github
-  <img src="https://0xlancerlab.com/banner.jpg" width="30px"/>
+  <img src="https://0xlancerlab.com/0xlancerlab-logo.png" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://0xlancerlab.com/banner.jpg" width="900" height="400"/>
