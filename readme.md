@@ -9,7 +9,7 @@
 
 
 ### :woman_technologist: About Me :
-    As a full-stack developer, I have gained the ability to understand the unique needs of clients and deliver projects on time.
+    I am the lead developer of 0xLancerLab.
   - :telescope: I am the lead developer for 0xLancerLab.
 
 - :seedling: Learning new programming languages and frameworks.
