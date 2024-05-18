@@ -3,7 +3,7 @@
   <img src="https://0xlancerlab.com/0xlancerlab-logo.png" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://0xlancerlab.com/banner.jpg" width="900" height="400"/>
+  <img src="https://0xlancerlab.com/banner.jpg" width="900" height="450"/>
 </div>
 <br>
 
