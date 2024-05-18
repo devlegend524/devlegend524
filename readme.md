@@ -3,14 +3,14 @@
   <img src="https://0xlancerlab.com/banner.jpg" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://0xlancerlab.com/banner.jpg" width="600" height="300"/>
+  <img src="https://0xlancerlab.com/banner.jpg" width="1200" height="300"/>
 </div>
 <br>
 
 
 ### :woman_technologist: About Me :
     As a full-stack developer, I have gained the ability to understand the unique needs of clients and deliver projects on time.
-  - :telescope: I’m working as a Full Stack Developer and contributing to frontend and backend for building web & blockchain applications.
+  - :telescope: I am the lead developer for 0xLancerLab.
 
 - :seedling: Learning new programming languages and frameworks.
 
@@ -65,11 +65,11 @@
 <div>
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/legend524">
-    <img width=450 height=170 align="center" alt="legend524" src="https://github-readme-stats.vercel.app/api?username=legend524&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/cryptoGuru525">
+    <img width=450 height=170 align="center" alt="cryptoGuru525" src="https://github-readme-stats.vercel.app/api?username=cryptoGuru525&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/legend524">
-    <img align="center" alt="legend524" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legend524&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/cryptoGuru525">
+    <img align="center" alt="cryptoGuru525" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoGuru525&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
