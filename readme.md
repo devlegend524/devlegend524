@@ -9,7 +9,7 @@
 
 
 ### :woman_technologist: About Me :
-    I am the lead developer of 0xLancerLab.
+    I am the lead developer of 0xLancerLab.<a href="https://0xlancerlab.com" target="_blank"> 0xLancerLab </a>
   - :telescope: Developing and mentoring web and blockchain projects.
 
 - :seedling: Learning new programming languages and frameworks.
