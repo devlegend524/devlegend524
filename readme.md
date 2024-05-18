@@ -3,7 +3,7 @@
   <img src="https://0xlancerlab.com/banner.jpg" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://0xlancerlab.com/banner.jpg" width="1200" height="300"/>
+  <img src="https://0xlancerlab.com/banner.jpg" width="900" height="400"/>
 </div>
 <br>
 
