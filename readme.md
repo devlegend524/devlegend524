@@ -65,11 +65,11 @@
 <div>
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/cryptoGuru525">
-    <img width=450 height=170 align="center" alt="cryptoGuru525" src="https://github-readme-stats.vercel.app/api?username=cryptoGuru525&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/devlegend524">
+    <img width=450 height=170 align="center" alt="devlegend524" src="https://github-readme-stats.vercel.app/api?username=devlegend524&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/cryptoGuru525">
-    <img align="center" alt="cryptoGuru525" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoGuru525&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/devlegend524">
+    <img align="center" alt="devlegend524" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlegend524&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
